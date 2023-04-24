@@ -13,7 +13,7 @@ We are open to collaborators who want to contribute, see how you can contribute 
 2. Code: If you are a developer and want to contribute, follow the step by step process below. 
 3. Suggestions: If you don't want to code but have some awesome ideas, open up an issue explaining some ideas or improvements you would like to see. 
 
-#Instructions
+Instructions
 1. Fork this repository
 2. Clone the forked repository
 3. Add your contributions (code or documentation)
