@@ -19,3 +19,5 @@ Instructions
 3. Add your contributions (code or documentation)
 4. Commit and push
 5. Wait for pull request to be merged
+
+# Contributing Details Section
