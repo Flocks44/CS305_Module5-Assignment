@@ -4,6 +4,9 @@ Repository made for module05 assignment, working with group.
 # Project: To-Do List
 This projects goal is to make an app that will help organize everyday activies, work, appointments etc all in one, think of your own personal assistant. Motivated to design a user friendly interface, organization and  resources to help the user with their everyday life. 
 
+# License:
+We will be using the GNU General Public License (GPL) to utilize linux. 
+
 # Collaboration
 We are open to collaborators who want to contribute, see how you can contribute below.
 1. Report bugs: If you encounter any bugs, please let us know. Open up an issue and describe the problem as best you can.
