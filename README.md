@@ -1,7 +1,7 @@
 # CS305_Module5-Assignment
 Repository made for module05 assignment, working with group. 
 
-# Project: To-Do List
+# Project: Assistant App
 This projects goal is to make an app that will help organize everyday activies, work, appointments etc all in one, think of your own personal assistant. Motivated to design a user friendly interface, organization and  resources to help the user with their everyday life. 
 
 # License:
