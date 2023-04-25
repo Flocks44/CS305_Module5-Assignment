@@ -22,7 +22,6 @@ Instructions
 
 # Contributing Details Section
 
-## Debbie of @dc2693 fame has now edited Shayne's README file. Send comments about the Personal Assistant app
-to that address. (current as of April 25, 2023).
+### Debbie of @dc2693 fame has now edited Shayne's README file. Send comments about the Personal Assistant app to that address. (current as of April 25, 2023).
 
 
